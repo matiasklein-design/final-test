@@ -10,3 +10,26 @@ p{
 Body{
 	background-color: #005f73;
 }
+
+ul{
+	list-style-type: none;
+	background-color: #bde0fe;
+	overflow: hidden;
+}
+
+li a{
+	float: left;
+	display: block;
+	width: 70px;
+	text-align: CENTER;
+	padding: 15PX 15PX;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: #ffffff;
+}
+
+.finalproyect{
+	border-bottom: 2px solid #ffffff;
+}
