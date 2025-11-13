@@ -9,6 +9,17 @@ p{
 
 Body{
 	background-color: #005f73;
+	overflow: hidden;
+}
+
+.slides{
+	
+}
+
+.container{
+	width: 300;
+	text-align: center;
+	overflow: hidden;
 }
 
 ul{
