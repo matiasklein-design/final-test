@@ -11,7 +11,14 @@ Body{
 	background-color: #005f73;
 	overflow: hidden;
 }
+	
+img:hover{
+	opacity: 0.75;
+}
 
+a{
+	color: #6f1d1b;
+}
 
 ul{
 	list-style-type: none;
